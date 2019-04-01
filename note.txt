@@ -63,3 +63,6 @@ linux lite
 mx linux
 xubuntu
 pop!_OS
+
+j'ai appris a utiliser le language html qui permet de faire des sites web par exemple, je me suis créé un compte github; ce qui permet de publier des lignes de codes, qui peuvent ensuite être vues et/ou améliorer par d'auter utilisateurs de github.
+dans github, il faut confirmer les changements effectués sur un fichier grâce à la commande <commit> pour voir la modification effectuée sur le site.
