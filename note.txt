@@ -1,0 +1,65 @@
+OS:
+sysmic R2E
+VMS DEC
+CP/M DR
+DOS IBM MICROSOFT
+QNX QSS
+MAC OS APPLE
+TOS ATARI
+AMIGAOS COMMODORE
+AIX IBM
+IRIX SGI
+NEXTSTEP NEXT
+OS/2 IBM MICROSOFT
+MINIX ANDREW TANENBAUM
+SYBIAN OS SYMBIAN LTD
+WINDOWS 3.X MICROSOFT
+SOLARIS SUN
+GNU/LINUS
+WINDOWS NT MICROSOFT
+NETBSD/FREEBSD/OPENBSD COMMUNAUTAIRE
+WINDOWS CE MICROSOFT
+RTX INTERVALZERO
+MAC OS X APPLE
+BLACKBERRY OS RESEARCH IN MOTION
+ANDROID HANDSET ALLIANCE
+IOS APPLE
+SAILFISH OS JOLLA
+
+Buts linux :
+serveur, superordinateur,calcul, logiciel embarqué
+linux
+avantages : prix réduit, stable et efficace, sécuritaire, code source libre, résistance aux attaques
+inconvénients : peu de compatibilité avec les logiciels vendus, les constructeurs font peu de driver sous linux
+
+Distribution : 
+ubuntu
+linux mint
+redhat
+debin
+archlinux
+centOS
+kali linux
+deepin
+manjaro linux
+opensuse
+KDE neon
+freenas
+freebsd
+ubuntu-mate
+gentoo linux
+fedora
+libreELEC
+android-x86
+tails
+ubuntu kylin
+elementary OS
+ranch OS
+clonezilla
+parrot
+alpin linux
+zorin os
+linux lite
+mx linux
+xubuntu
+pop!_OS
