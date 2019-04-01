@@ -29,7 +29,7 @@ SAILFISH OS JOLLA
 Buts linux :
 serveur, superordinateur,calcul, logiciel embarqué
 linux
-avantages : prix réduit, stable et efficace, sécuritaire, code source libre, résistance aux attaques
+avantages : prix réduit, stable et efficace, sécuritaire, code libre, résistance aux attaques
 inconvénients : peu de compatibilité avec les logiciels vendus, les constructeurs font peu de driver sous linux
 
 Distribution : 
