@@ -165,7 +165,8 @@ Voici un petit exemple :
 <br>
 <a href="destination.html">Lien vers la page cible</a>
 </body>
-html```
+html
+```
 
 Je me suis ensuite créé un compte [GitHub](https://github.com/); ce qui permet de publier des lignes de codes, qui peuvent ensuite être vues et/ou améliorer par d'auter utilisateurs de github.
 Dans github, il faut confirmer les changements effectués sur un fichier grâce à la commande `git commit` pour voir la modification effectuée sur le site.
