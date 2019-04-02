@@ -1,6 +1,6 @@
 Qu'est ce qu'un OS ?
 ==================
-# __Un OS *"operating system"* est un ensemble de programme qui dirige l'utilisation des ressources d'un ordinateur par des logiciels applicatifs.__
+**__Un OS__ *"operating system"* __est un ensemble de programme qui dirige l'utilisation des ressources d'un ordinateur par des logiciels applicatifs.__**
 
 ## Liste d'OS:
 * sysmic R2E
