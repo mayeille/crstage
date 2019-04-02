@@ -57,6 +57,8 @@ Description [OS](https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27exploitation)
 
 * SAILFISH OS JOLLA
 
+## Le cas de Linux
+
 ### Quels sont les diférents usages de linux ?
 
 * serveur
