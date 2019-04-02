@@ -66,40 +66,36 @@ Qu'est ce qu'un OS ?
 * logiciel embarqué
 
 #### Pourquoi linux ?
-avantages : prix réduit, stable et efficace, sécuritaire, code libre, résistance aux attaques
-inconvénients : peu de compatibilité avec les logiciels vendus, les constructeurs font peu de driver sous linux
 
-Distribution : 
-ubuntu
-linux mint
-redhat
-debin
-archlinux
-centOS
-kali linux
-deepin
-manjaro linux
-opensuse
-KDE neon
-freenas
-freebsd
-ubuntu-mate
-gentoo linux
-fedora
-libreELEC
-android-x86
-tails
-ubuntu kylin
-elementary OS
-ranch OS
-clonezilla
-parrot
-alpin linux
-zorin os
-linux lite
-mx linux
-xubuntu
-pop!_OS
+##### Avantages :
 
-j'ai appris a utiliser le language html qui permet de faire des sites web par exemple, je me suis créé un compte github; ce qui permet de publier des lignes de codes, qui peuvent ensuite être vues et/ou améliorer par d'auter utilisateurs de github.
-dans github, il faut confirmer les changements effectués sur un fichier grâce à la commande <commit> pour voir la modification effectuée sur le site.
+1. Prix réduit
+
+2. Stable et efficace
+
+3. Sécuritaire
+
+4. Code libre
+
+5. Résistance aux attaques
+
+##### Inconvénients : 
+
+1. Peu de compatibilité avec les logiciels vendus
+
+2. Les constructeurs font peu de driver sous linux
+
+###### Les distributions :
+
+Il y a trois principales distributions qui sont a l'origine des autres :
+
+1. Slackware
+
+2. Debian
+
+3. Red Hat
+
+Le lundi, j'ai appris a utiliser le language html qui permet de faire des sites web par exemple, je me suis créé un compte github; ce qui permet de publier des lignes de codes, qui peuvent ensuite être vues et/ou améliorer par d'auter utilisateurs de github.
+Dans github, il faut confirmer les changements effectués sur un fichier grâce à la commande `git commit` pour voir la modification effectuée sur le site.
+
+Le mardi, j'ai fait la syntaxte en Markdown de ce texte, ce qui permet de mettre des éléments en gras, ou en italique etc... Le language est assez simple, par exemple, __pour soumigner cette phrase__, j'ai utiliser la ligne : `__pour souligner cette phrase__`
