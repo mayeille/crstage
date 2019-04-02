@@ -101,10 +101,15 @@ Il y a trois principales distributions qui sont a l'origine des autres :
 
 3. Red Hat
 
-Le lundi, j'ai appris a utiliser le language html qui permet de faire des sites web par exemple. Le html, ou Hypertext Markup Language, est un langage utilisé pour les pages web.
+Le lundi, j'ai appris a utiliser le language HTML qui permet de faire des sites web par exemple. Le HTML, ou HyperText Markup Language, est un langage utilisé pour les pages web.
 
 Voici un petit exemple :
             
+```html
+<p>Hello</p>
+```
+
+
             `<html>`
                 `<head>`
                     `<meta charset="utf-8">`
