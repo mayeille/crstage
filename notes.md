@@ -69,6 +69,8 @@ Description [OS](https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27exploitation)
 
 * logiciel embarqué
 
+
+
 ### Pourquoi linux ?
 
 ##### Avantages :
