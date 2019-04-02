@@ -1,38 +1,71 @@
 Qu'est ce qu'un OS ?
 ==================
-#__Un OS *"operating system"* est un ensemble de programme qui dirige l'utilisation des ressources d'un ordinateur par des logiciels applicatifs.__
+# __Un OS *"operating system"* est un ensemble de programme qui dirige l'utilisation des ressources d'un ordinateur par des logiciels applicatifs.__
 
-##Liste d'OS:
-*sysmic R2E
-*VMS DEC
-*CP/M DR
-*DOS IBM MICROSOFT
-*QNX QSS
-*MAC OS APPLE
-*TOS ATARI
-*AMIGAOS COMMODORE
-*AIX IBM
-*IRIX SGI
-*NEXTSTEP NEXT
-*OS/2 IBM MICROSOFT
-*MINIX ANDREW TANENBAUM
-*SYBIAN OS SYMBIAN LTD
-*WINDOWS 3.X MICROSOFT
-*SOLARIS SUN
-*GNU/LINUX
-*WINDOWS NT MICROSOFT
-*NETBSD/FREEBSD/OPENBSD COMMUNAUTAIRE
-*WINDOWS CE MICROSOFT
-*RTX INTERVALZERO
-*MAC OS X APPLE
-*BLACKBERRY OS RESEARCH IN MOTION
-*ANDROID HANDSET ALLIANCE
-*IOS APPLE
-*SAILFISH OS JOLLA
+## Liste d'OS:
+* sysmic R2E
 
-Buts linux :
-serveur, superordinateur,calcul, logiciel embarqué
-linux
+* VMS DEC
+
+* CP/M DR
+
+* DOS IBM MICROSOFT
+
+* QNX QSS
+
+* MAC OS APPLE
+
+* TOS ATARI
+
+* AMIGAOS COMMODORE
+
+* AIX IBM
+
+* IRIX SGI
+
+* NEXTSTEP NEXT
+
+* OS/2 IBM MICROSOFT
+
+* MINIX ANDREW TANENBAUM
+
+* SYBIAN OS SYMBIAN LTD
+
+* WINDOWS 3.X MICROSOFT
+
+* SOLARIS SUN
+
+* GNU/LINUX
+
+* WINDOWS NT MICROSOFT
+
+* NETBSD/FREEBSD/OPENBSD COMMUNAUTAIRE
+
+* WINDOWS CE MICROSOFT
+
+* RTX INTERVALZERO
+
+* MAC OS X APPLE
+
+* BLACKBERRY OS RESEARCH IN MOTION
+
+* ANDROID HANDSET ALLIANCE
+
+* IOS APPLE
+
+* SAILFISH OS JOLLA
+
+### Quels sont les diférents usages de linux ?
+
+* serveur
+
+* superordinateur
+
+* calcul
+
+* logiciel embarqué
+
+#### Pourquoi linux ?
 avantages : prix réduit, stable et efficace, sécuritaire, code libre, résistance aux attaques
 inconvénients : peu de compatibilité avec les logiciels vendus, les constructeurs font peu de driver sous linux
 
