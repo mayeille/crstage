@@ -156,7 +156,7 @@ Voici un petit exemple :
                 `</body>`
             `</html>`
 
-Je me suis ensuite créé un compte github; ce qui permet de publier des lignes de codes, qui peuvent ensuite être vues et/ou améliorer par d'auter utilisateurs de github.
+Je me suis ensuite créé un compte [GitHub](https://github.com/); ce qui permet de publier des lignes de codes, qui peuvent ensuite être vues et/ou améliorer par d'auter utilisateurs de github.
 Dans github, il faut confirmer les changements effectués sur un fichier grâce à la commande `git commit` pour voir la modification effectuée sur le site.
 
 Le mardi, j'ai fait la syntaxte en Markdown de ce texte, ce qui permet de mettre des éléments en gras, ou en italique etc... Le language est assez simple, par exemple, **pour mettre cette pharse en gras**, j'ai utiliser la ligne : `**pour mettre cette phrase en gras**`
