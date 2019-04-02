@@ -101,13 +101,9 @@ Il y a trois principales distributions qui sont a l'origine des autres :
 
 3. Red Hat
 
-Le lundi, j'ai appris a utiliser le language HTML qui permet de faire des sites web par exemple. Le HTML, ou HyperText Markup Language, est un langage utilisé pour les pages web.
+Le lundi, j'ai appris a utiliser le language HTML qui permet de faire des sites web par exemple. Le HTML, ou HyperText Markup Language, est un langage utilisé pour les pages web. HTML a été créé vers 1989 par Tim Berners-Lee en même temps que HTTP et les adresses web.
 
 Voici un petit exemple :
-            
-```html
-<p>Hello</p>
-```
 
 ```html
 <head>
