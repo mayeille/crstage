@@ -85,7 +85,7 @@ Qu'est ce qu'un OS ?
 
 2. Les constructeurs font peu de driver sous linux
 
-###### Les distributions :
+##### Les distributions :
 
 Il y a trois principales distributions qui sont a l'origine des autres :
 
