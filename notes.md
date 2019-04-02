@@ -98,63 +98,63 @@ Il y a trois principales distributions qui sont a l'origine des autres :
 Le lundi, j'ai appris a utiliser le language html qui permet de faire des sites web par exemple. Le html, ou Hypertext Markup Language, est un langage utilisé pour les pages web.
 
 Voici un petit exemple :
-        <html>
-            <head>
-                <meta charset="utf-8">
-        	    <link rel="stylesheet" href="style.css">
-            </head>
-        <body>
-            <h1>Ma premère page web</h1>
-            <h2>Première partie</h2>
-                <p>Test de page web</p>
-            <h2>Seconde partie</h2>
-            <p>Second paragraphe de la page web</p>
-            <p><div>ceci est un test de css</div> 
-            <ul>
-                <li>Grand 1</li>
-                <li>Grand 2</li>
-                <li>Grand 3</li>
-            </ul>
-            <ol>
-                <li>Grand 1</li>
-                <li>Grand 2</li>
-                <li>Grand 3</li>
-            </ol>
-                <table border="1">
-                    <tr>
-                        <td>champ 1</td>
-                        <td>champ 2</td>
-                    </tr>
-                </table>
+            <html>
+                <head>
+                    <meta charset="utf-8">
+        	        <link rel="stylesheet" href="style.css">
+                </head>
+            <body>
+                <h1>Ma premère page web</h1>
+                <h2>Première partie</h2>
+                    <p>Test de page web</p>
+                <h2>Seconde partie</h2>
+                <p>Second paragraphe de la page web</p>
+                <p><div>ceci est un test de css</div> 
+                <ul>
+                    <li>Grand 1</li>
+                    <li>Grand 2</li>
+                    <li>Grand 3</li>
+                </ul>
+                <ol>
+                    <li>Grand 1</li>
+                    <li>Grand 2</li>
+                    <li>Grand 3</li>
+                </ol>
+                    <table border="1">
+                        <tr>
+                            <td>champ 1</td>
+                            <td>champ 2</td>
+                        </tr>
+                    </table>
 
-                <table border="1">
-                      <thead>
-                          <tr>
-                              <th>Première colonne</th>
-                              <th>Seconde colonne</th>
-                              <th>Troisième colonne</th>
-                          </tr>
-                      </thead>
-                    <tr>
-                        <td>1</td>
-                        <td>2</td>
-                        <td>3</td>
-                    </tr>
-                    <tr>
-                        <td>4</td>
-                        <td>5</td>
-                        <td>6</td>
-                    </tr>
-                     <tr>
-                          <td>7</td>  
-                          <td>8</td>
-                          <td>9</td>
-                     </tr>
-                </table>
-            <br>
-                <a href="destination.html">Lien vers la page cible</a>
-    </body>
-</html>
+                    <table border="1">
+                          <thead>
+                              <tr>
+                                  <th>Première colonne</th>
+                                  <th>Seconde colonne</th>
+                                  <th>Troisième colonne</th>
+                              </tr>
+                          </thead>
+                        <tr>
+                            <td>1</td>
+                            <td>2</td>
+                            <td>3</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td>5</td>
+                            <td>6</td>
+                        </tr>
+                        <tr>
+                              <td>7</td>  
+                              <td>8</td>
+                              <td>9</td>
+                         </tr>
+                    </table>
+                    <br>
+                    <a href="destination.html">Lien vers la page cible</a>
+                </body>
+            </html>
 
 Je me suis ensuite créé un compte github; ce qui permet de publier des lignes de codes, qui peuvent ensuite être vues et/ou améliorer par d'auter utilisateurs de github.
 Dans github, il faut confirmer les changements effectués sur un fichier grâce à la commande `git commit` pour voir la modification effectuée sur le site.
