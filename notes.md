@@ -126,7 +126,6 @@ Voici un petit exemple :
                             <td>champ 2</td>
                         </tr>
                     </table>
-
                     <table border="1">
                           <thead>
                               <tr>
