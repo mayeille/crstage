@@ -168,3 +168,5 @@ Je me suis ensuite créé un compte [GitHub](https://github.com/); ce qui permet
 Dans github, il faut confirmer les changements effectués sur un fichier grâce à la commande `git commit` pour voir la modification effectuée sur le site.
 
 Le mardi, j'ai fait la syntaxte de ce texte en [Markdown](https://fr.wikipedia.org/wiki/Markdown), ce qui permet de mettre des éléments en gras, ou en italique etc... Le language est assez simple, par exemple, **pour mettre cette pharse en gras**, j'ai utiliser la ligne : `**pour mettre cette phrase en gras**`
+
+Mercredi : voir css grid, mise en page du projet et du code de base (voir app.py; pageled.html et styleluminator.css
