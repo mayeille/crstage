@@ -2,17 +2,22 @@
 	<head>
 		<meta charset="utf-8">
 			<link rel="stylesheet" href="static/styleluminator.css">		
-		<h1>Le Luminator</h1>
+		
 	</head>
 	<body>
+	<div class="content">
+		<h1>Le Luminator</h1>
 		<br>
-		<h2>		
-		<img src="{{ url_for('static', filename='rouge.jpg') }}">
+			{% if led_on %}	
+			<img class="light" src="{{ url_for('static', filename='vert.jpg') }}">
+			{% else %}
+			<img class="light" src="{{ url_for('static', filename='rouge.jpg') }}">
+			{% endif %}
 		<br>
-		<p>
-			<img src="{{ url_for('static', filename='on.jpg') }}">
-			<img src="{{ url_for('static', filename='off.jpg') }}">
-		</h2>		
-		</p>	
+		<form class="form" method="POST">
+			<button type="submit" name="light" value="on"><img class="switch" src="{{ url_for('static', filename='on.jpg') }}"></button>
+			<button type="submit" name="light" value="off"><img class="switch" src="{{ url_for('static', filename='off.jpg') }}"></button>
+		</form>
+	</div>
 	</body>
 </html>

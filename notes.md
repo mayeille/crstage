@@ -169,4 +169,4 @@ Dans github, il faut confirmer les changements effectués sur un fichier grâce 
 
 Le mardi, j'ai fait la syntaxte de ce texte en [Markdown](https://fr.wikipedia.org/wiki/Markdown), ce qui permet de mettre des éléments en gras, ou en italique etc... Le language est assez simple, par exemple, **pour mettre cette pharse en gras**, j'ai utiliser la ligne : `**pour mettre cette phrase en gras**`
 
-Mercredi : *voir css grid*, mise en page du projet et du code de base (voir app.py; pageled.html et styleluminator.css). J'ai créé l'interface de la page de commande de l'arduino, et au moment au je parle, je cherche a associer une action suite a un clic de la souris sur un bouton
+Mercredi : *voir css grid*, mise en page du projet et du code de base (voir app.py; pageled.html et styleluminator.css). J'ai créé l'interface de la page de commande de l'arduino, et au moment au je parle, je cherche a associer une action suite a un clic de la souris sur un bouton.

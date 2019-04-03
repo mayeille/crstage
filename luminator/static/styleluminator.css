@@ -1,5 +1,27 @@
 h1{
 	color: red;
-	font-size: 80px;
+	font-size: 90px;
 		text-align: center;
+}
+
+.content {
+	max-width: 640px;
+	margin: 0 10%;
+}
+
+.form {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.switch {
+	width: 29.5%;
+	padding: 0 10%;
+	margin:0;
+}
+
+.light {
+	width: 25%;
+	padding: 0 37%;
 }

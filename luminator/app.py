@@ -6,24 +6,20 @@ led_on = True
 
 def set_led(request):
 	global led_on
-	if "light" not in request.json:
-		return "ligth argument is missing", 400
+	if "light" not in request.form:
+		return "light argument is missing", 400
 
-	if request.json["light"] == "on":
+	if request.form["light"] == "on":
 		led_on = True
 	else:
-		led_on = False
-
-	return "LED status: %d" % led_on, 201
-
-def get_led():
-	global led_on
-	return render_template('pageled.html', led_on=led_on)
+		led_on = False	
 
 @app.route('/', methods=['GET', 'POST'])    
 def led():
 	if request.method == 'POST':
-		return set_led(request)
-	else:
-		return get_led()
+		set_led(request)
+	
+	return render_template('pageled.html', led_on=led_on)
+	
+		
 
