@@ -180,7 +180,7 @@ Mise en page du projet et du code de base (voir app.py; pageled.html et stylelum
 ### Jeudi :
 
 **Aller voir sur [typing.com](https://www.typing.com/)** pour apprendre a taper à dix doigts.
-mis en place de la connection avec le serveur [modbus](https://github.com/stephane/modbusino/blob/master/Modbusino.h). Ajout d'une image avec la commande `![Imgur](https://i.imgur.com/naQUnXk.png)`
+mis en place de la connection avec le serveur [modbus](https://github.com/stephane/modbusino/). Ajout d'une image avec la commande `![Imgur](https://i.imgur.com/naQUnXk.png)`
 
 ### Diagramme :
 
