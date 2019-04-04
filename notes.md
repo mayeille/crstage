@@ -174,4 +174,6 @@ Mercredi : *voir css grid*, mise en page du projet et du code de base (voir app.
 Jeudi: aller voir sur [typing.com](https://www.typing.com/) pour apprendre a taper à dix doigts.
 mis en place de la connection avec le serveur [modbus](https://github.com/stephane/modbusino/blob/master/Modbusino.h).
 
+###Diagramme :
+
 ![Imgur](https://i.imgur.com/naQUnXk.png)
