@@ -101,7 +101,9 @@ Il y a trois principales distributions qui sont a l'origine des autres :
 
 3. Red Hat
 
-Le lundi, j'ai appris a utiliser le language HTML qui permet de faire des sites web par exemple. Le HTML, ou HyperText Markup Language, est un langage utilisé pour les pages web. HTML a été créé vers 1989 par Tim Berners-Lee en même temps que HTTP et les adresses web.
+### Lundi :
+
+J'ai appris a utiliser le language HTML qui permet de faire des sites web par exemple. Le HTML, ou HyperText Markup Language, est un langage utilisé pour les pages web. HTML a été créé vers 1989 par Tim Berners-Lee en même temps que HTTP et les adresses web.
 
 Voici un petit exemple :
 
@@ -167,12 +169,18 @@ html
 Je me suis ensuite créé un compte [GitHub](https://github.com/); ce qui permet de publier des lignes de codes, qui peuvent ensuite être vues et/ou améliorer par d'auter utilisateurs de github.
 Dans github, il faut confirmer les changements effectués sur un fichier grâce à la commande `git commit` pour voir la modification effectuée sur le site.
 
-Le mardi, j'ai fait la syntaxte de ce texte en [Markdown](https://fr.wikipedia.org/wiki/Markdown), ce qui permet de mettre des éléments en gras, ou en italique etc... Le language est assez simple, par exemple, **pour mettre cette pharse en gras**, j'ai utiliser la ligne : `**pour mettre cette phrase en gras**`
+### Mardi :
 
-Mercredi : *voir css grid*, mise en page du projet et du code de base (voir app.py; pageled.html et styleluminator.css). J'ai créé l'interface de la page de commande de l'arduino, et au moment au je parle, je cherche a associer une action suite a un clic de la souris sur un bouton.
+J'ai fait la syntaxte de ce texte en [Markdown](https://fr.wikipedia.org/wiki/Markdown), ce qui permet de mettre des éléments en gras, ou en italique etc... Le language est assez simple, par exemple, **pour mettre cette pharse en gras**, j'ai utiliser la ligne : `**pour mettre cette phrase en gras**`
 
-Jeudi: aller voir sur [typing.com](https://www.typing.com/) pour apprendre a taper à dix doigts.
-mis en place de la connection avec le serveur [modbus](https://github.com/stephane/modbusino/blob/master/Modbusino.h).
+### Mercredi :
+
+Mise en page du projet et du code de base (voir app.py; pageled.html et styleluminator.css). J'ai créé l'interface de la page de commande de l'arduino, avec les différents boutons nécessaires.
+
+### Jeudi :
+
+**Aller voir sur [typing.com](https://www.typing.com/)** pour apprendre a taper à dix doigts.
+mis en place de la connection avec le serveur [modbus](https://github.com/stephane/modbusino/blob/master/Modbusino.h). Création du :
 
 ### Diagramme :
 
