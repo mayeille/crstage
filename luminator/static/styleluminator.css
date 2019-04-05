@@ -1,6 +1,6 @@
 h1{
-	color: red;
-	font-size: 90px;
+	color: rgb(79, 221, 221);
+	font-size: 80px;
 		text-align: center;
 }
 
@@ -16,12 +16,12 @@ h1{
 }
 
 .switch {
-	width: 29.5%;
-	padding: 0 10%;
-	margin:0;
+	width: 30%;
+	padding: 0 20%;
+	margin:24;
 }
 
 .light {
-	width: 25%;
-	padding: 0 37%;
+	width: 35%;
+	padding: 0 30%;
 }
