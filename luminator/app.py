@@ -30,7 +30,10 @@ def	arduino_write_led(value):
 		v = 0
 
 	mb = arduino_connect()
-	mb.write_registers(ADDRESS_LED, [v])
+	try:					
+		mb.write_registers(ADDRESS_LED, [v])
+	except Exception as e:
+		print(e)
 	mb.close()
 
 def arduino_read_led():
@@ -46,4 +49,3 @@ def arduino_connect():
 	mb.set_slave(1)
 	mb.connect()
 	return mb
-# mb.close()
