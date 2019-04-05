@@ -1,7 +1,7 @@
 h1{
 	color: rgb(79, 221, 221);
 	font-size: 80px;
-		margin-left: 170px; 
+		margin-left: 120px; 
 }
 
 .content {
@@ -17,7 +17,7 @@ h1{
 
 .light {
 	width: 35%;
-	margin-left: 234px;
+	margin-left: 184px;
 }
 
 .on {
@@ -27,7 +27,7 @@ h1{
 	cursor:pointer;
 	border: none;
 	margin-right: 40px;
-	margin-left: 130px;
+	margin-left: 80px;
 }
 
 .off {
