@@ -188,4 +188,4 @@ Mise en place de la connection avec le serveur [modbus](https://github.com/steph
 
 ### Vendredi :
 
-Aller voir sur [vscode]()
+Aller voir sur [VScode](https://code.visualstudio.com/) et sur [SunFounder](https://www.sunfounder.com/arduino.html)
