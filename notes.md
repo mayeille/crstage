@@ -103,7 +103,7 @@ Il y a trois principales distributions qui sont a l'origine des autres :
 
 ### Lundi :
 
-J'ai appris a utiliser le language HTML qui permet de faire des sites web par exemple. Le HTML, ou HyperText Markup Language, est un langage utilisé pour les pages web. HTML a été créé vers 1989 par Tim Berners-Lee en même temps que HTTP et les adresses web.
+J'ai appris a utiliser le language HTML qui permet de faire des sites web par exemple. Le HTML, ou HyperText Markup Language, est un langage utilisé pour les pages web. HTML a été créé vers 1989 par Tim Berners-Lee en même temps que HTTP et les adresses web, et suite au *WorldWideWeb*.
 
 Voici un petit exemple :
 
@@ -166,22 +166,24 @@ Voici un petit exemple :
 html
 ```
 
-Je me suis ensuite créé un compte [GitHub](https://github.com/); ce qui permet de publier des lignes de codes, qui peuvent ensuite être vues et/ou améliorer par d'auter utilisateurs de github.
-Dans github, il faut confirmer les changements effectués sur un fichier grâce à la commande `git commit` pour voir la modification effectuée sur le site.
+Je me suis ensuite créé un compte [GitHub](https://github.com/); ce qui permet de publier des lignes de codes, qui peuvent ensuite être vues et/ou améliorer par d'autres utilisateurs de github.
+Dans github, il faut ajouter le fichier que l'on veut envoyer grâce à la commande `git add`, puis confirmer les changements effectués sur un fichier grâce à la commande `git commit`, et enfin envoyer le fichier grâce à la commande `git push` pour voir la modification effectuée sur le site.
 
 ### Mardi :
 
-J'ai fait la syntaxte de ce texte en [Markdown](https://fr.wikipedia.org/wiki/Markdown), ce qui permet de mettre des éléments en gras, ou en italique etc... Le language est assez simple, par exemple, **pour mettre cette pharse en gras**, j'ai utiliser la ligne : `**pour mettre cette phrase en gras**`
+J'ai vu les grandes lignes du [Markdown](https://fr.wikipedia.org/wiki/Markdown), ce qui permet de mettre des éléments en gras, ou en italique etc... Le language est assez simple, par exemple, **pour mettre cette pharse en gras**, j'ai utiliser la ligne : `**pour mettre cette phrase en gras**`
 
 ### Mercredi :
 
-Mise en page du projet et du code de base (voir app.py; pageled.html et styleluminator.css). J'ai créé l'interface de la page de commande de l'arduino, avec les différents boutons nécessaires.
+Mise en page du projet et du code de base (voir app.py; pageled.html et styleluminator.css). J'ai créé l'interface de la page de commande de l'arduino, avec les différents boutons nécessaires, qui sont des images prises sur le web.
 
 ### Jeudi :
 
 **Aller voir sur [typing.com](https://www.typing.com/)** pour apprendre a taper à dix doigts.
-mis en place de la connection avec le serveur [modbus](https://github.com/stephane/modbusino/). Ajout d'une image avec la commande `![Imgur](https://i.imgur.com/naQUnXk.png)`
+Mise en place de la connection avec le serveur [modbus](https://github.com/stephane/modbusino/). Ajout d'une image avec la commande `![Imgur](https://i.imgur.com/naQUnXk.png)`.
 
 ### Diagramme :
 
 ![Imgur](https://i.imgur.com/naQUnXk.png)
+
+### Vendredi :
