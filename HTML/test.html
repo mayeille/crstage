@@ -1,0 +1,20 @@
+<script type="text/javascript" src="js/checkmk.js"></script>
+<script type="text/javascript" src="js/hover.js"></script>
+</head>
+<body class="main "><script language="javascript">
+if(top != self) {
+    window.top.location.href = location;
+}
+</script>
+<div id=login><img id=login_window src="images/login_window.png"><div id=version>1.2.0p3</div><form id="form_login" name="login" class="login" action="index.py" method="POST" enctype="multipart/form-data">
+<input type=hidden name=filled_in value="login"><input type=hidden name=_login value="1"><input type=hidden name=_origtarget value="index.py?"><label id=label_user class=legend for=_username>Username:</label><br /><input type=text class=text value="" name="_username" id='input_user'><label id=label_pass class=legend for=_password>Password:</label><br /><input type=password class=text value="" name="_password" id='input_pass'><div id=button_text><label for="_login" class=image_button><input onfocus="if (this.blur) this.blur();" type=submit name="_login" id="_login" value="Login" class="">
+</label></div><div id=foot>Version: 1.2.0p3 - &copy; <a href="http://mathias-kettner.de">Mathias Kettner</a><br><br>You can use, modify and distribute Check_MK under the terms of the <a href='http://mathias-kettner.de/gpl.html'>GNU GPL Version 2</a>.</div></div></form>
+<script language="javascript" type="text/javascript">
+<!--
+if (document.login._username) {    document.login._username.focus();
+    document.login._username.select();
+}
+// -->
+</script>
+</body></html>
+

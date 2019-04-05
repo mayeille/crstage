@@ -24,20 +24,26 @@ def led():
 	return render_template('pageled.html', led_on=led_on)
 
 def	arduino_write_led(value):
-	global mb
 	if value:
 		v = 1
 	else:
 		v = 0
 
-	mb.write_register(ADDRESS_LED, v)
+	mb = arduino_connect()
+	mb.write_registers(ADDRESS_LED, [v])
+	mb.close()
 
 def arduino_read_led():
-	global mb
+	mb = arduino_connect()
 	read_data = mb.read_registers(ADDRESS_LED, 1)
+	mb.close()
+	print(list(read_data))
 	return bool(read_data[0])
 
 
-mb = pylibmodbus.ModbusTcp("127.0.0.1", 1502)
-mb.connect()
+def arduino_connect(): 
+	mb = pylibmodbus.ModbusRtu(device="/dev/ttyACM0", baud=115200)
+	mb.set_slave(1)
+	mb.connect()
+	return mb
 # mb.close()

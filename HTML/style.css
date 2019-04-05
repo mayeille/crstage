@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    font-size: 60px;
+	font-family: sans-serif;
+}
+
+p{
+    color: green;
+    text-decoration: underline;
+	font-family: sans-serif;
+}
+h2{
+	color: red;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
