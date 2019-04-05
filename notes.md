@@ -187,3 +187,5 @@ Mise en place de la connection avec le serveur [modbus](https://github.com/steph
 ![Imgur](https://i.imgur.com/naQUnXk.png)
 
 ### Vendredi :
+
+Aller voir sur [vscode]()
